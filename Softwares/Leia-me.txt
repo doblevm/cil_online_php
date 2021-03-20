@@ -1,0 +1,4 @@
+Arquivos
+Horimetros-Node-Red.json	- 	Exemplo node red contator de horas
+mysql-installer-community-8.0.21.0	Software para visualização e edição de base mysql
+xampp-windows-x64-7.2.33-0-VC15-installer	Software servidor apache e mysql possui opções de instalacao
